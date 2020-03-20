@@ -12,5 +12,18 @@
     "hjs": "~0.0.6",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "Pour récupérer le projet git :     $ git clone https://github.com/HenriGourgue/node-app     $ cd node-app     $ npm install #installation des dépendances     $ npm start #exécution du serveur     # ctrl-c pour quitter le serveur",
+  "main": "test.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriGourgue/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriGourgue/node-app/issues"
+  },
+  "homepage": "https://github.com/HenriGourgue/node-app#readme"
 }
